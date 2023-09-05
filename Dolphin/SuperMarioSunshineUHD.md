@@ -12,7 +12,9 @@ Don't download this GitHub repository to use in-game, use the download link abov
 
 Windows: `C:\Users\UserName\Documents\Dolphin Emulator\Load\Textures\GMS`  
 Linux: `~/.local/share/dolphin-emu/Load/Textures/GMS`  
-macOS: `/Users/qashto/Library/Application\ Support/Dolphin/Load/Textures/GMS`
+macOS: `/Users/UserName/Library/Application\ Support/Dolphin/Load/Textures/GMS`
+<br>
+Steam Deck: `/home/deck/.var/app/org.DolphinEmu.dolphin-emu/data/dolphin-emu/Load/Textures`
 
 ## Recommended Settings
 
