@@ -2,6 +2,8 @@
   <img src="https://github.com/SiriusIntrovert/sirius-archives/assets/143654569/f13e5c50-e651-4457-b5fd-4ecb6a193e8e"/>
 </p>
 
+Source: [Link](https://forums.dolphin-emu.org/Thread-oot-mm-reloaded-2023-08-13)
+
 Thanks to the efforts of GhostlyDark (who primarily maintains the texture pack) OoT Reloaded and MM Reloaded are available for the Dolphin emulator. So what are OoT Reloaded and MM Reloaded? It is an unified ultra high definition texture pack designed for Dolphin (through the Virtual Console and the GameCube discs), GlideN64 (for use on Nintendo 64 emulators such as Project64) and the unofficial PC Port (SoH). Just about everything should be covered for the international version, including some mods here and there. The aim is to make the texture pack look as vanilla-like as possible.
 
 This pack was previously known as Zelda 64 UHD but has now been superseded nu OoT & MM Reloaded? Why? Because Reloaded unified the texture pack for all platforms. A huge shoutout to masterotaku who originally started the project by porting the textures from Zelda Ocarina of Time Community Retexture Project from the N64 to the GC. And a huge shoutout to Nerrel (with his permission) who made the MMN64HD texture pack for Majora's Mask.
